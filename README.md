@@ -7,3 +7,8 @@ This repository houses my ToDo project, a simple and efficient task management a
 # Tech Stack:
 * **Visual Studio Code:** Utilized this powerful code editor for an efficient development workflow.
 * **HTML, CSS, and JavaScript:** Employed these core technologies to bring the ToDo List to life.
+# Getting started:
+
+  **1. Clone the repository:**
+
+      git clone https://github.com/Priya-2703/Landing_Page.git
