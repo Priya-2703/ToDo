@@ -11,4 +11,4 @@ This repository houses my ToDo project, a simple and efficient task management a
 
   **1. Clone the repository:**
 
-      git clone https://github.com/Priya-2703/Landing_Page.git
+      git clone https://github.com/Priya-2703/ToDo.git
