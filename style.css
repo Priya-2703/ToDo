@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: yellow;
+  background-color: #00FFFF;
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -26,7 +26,7 @@ h1 {
   opacity:.9 ;
 }
 .thought h2{
-  color: red;
+  color: #01016d;
   opacity: .3;
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
 
@@ -76,7 +76,7 @@ form {
 }
 
 small {
-  color: #b5b5b5;
+  color: #0000CD;
   margin-top: 3rem;
   text-align: center;
   opacity: .6;
